@@ -7,7 +7,7 @@ class AppComponent extends React.Component {
   render() {
     return (
       <div className="index">
-        This is text taht goes here!!
+        This is text taht goes here!! And again..
       </div>
     );
   }
