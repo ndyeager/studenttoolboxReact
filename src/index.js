@@ -1,11 +1,11 @@
 import 'core-js/fn/object/assign';
 import React from 'react';
 import ReactDOM from 'react-dom';
-import { Router, Route, IndexRoute, hashHistory } from 'react-router'
+import { Router, Route, hashHistory } from 'react-router'
 
 import App from './components/Main';
 import Videos from './components/Videos';
-import StudentPage from './components/StudentPage';
+
 
 
 const app = document.getElementById('app');

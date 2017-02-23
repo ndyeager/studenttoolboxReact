@@ -2,8 +2,6 @@
 require('normalize.css/normalize.css');
 require('styles/App.css');
 
-import { DefaultPlayer as Video } from 'react-html5video';
-import 'react-html5video/dist/styles.css';
 
 import React from 'react';
 import { Link } from 'react-router';

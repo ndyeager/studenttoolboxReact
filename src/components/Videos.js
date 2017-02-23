@@ -9,7 +9,6 @@ import React from 'react';
 
 class VideoComponent extends React.Component {
   render() {
-    console.log(this.props)
     return (
       <div className='videoBackground'>
         <Video className='videoContainer' autoPlay loop muted

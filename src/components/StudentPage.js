@@ -6,8 +6,6 @@ import React from 'react';
 import { DefaultPlayer as Video } from 'react-html5video';
 import 'react-html5video/dist/styles.css';
 
-import Videos from './Videos';
-
 class NameForm extends React.Component {
   constructor(props) {
     super(props);
