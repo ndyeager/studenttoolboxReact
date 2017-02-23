@@ -7,7 +7,7 @@ class AppComponent extends React.Component {
   render() {
     return (
       <div className="index">
-        <div className="notice"></div>
+        This is text taht goes here!!
       </div>
     );
   }
